@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:title="Customer Area"
+        android:id="@+id/nav_customer"
+        android:icon="@drawable/ic_customer"/>
+
+    <item
+        android:title="Google"
+        android:id="@+id/nav_web"
+        android:icon="@drawable/ic_web"/>
+
+    <item
+        android:title="Log out"
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/ic_power"/>
+
+
+
+</menu>

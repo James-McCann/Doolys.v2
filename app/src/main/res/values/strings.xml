@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Doolys.v2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="log_out">Log out</string>
+    <string name="ParseId">enTMkzAUGlxDIjGG5ZbJoyOTkpMogxhRzgaP2MAh</string>
+    <string name="ParseClientId">E3WixphqMsX1v6jZPVzyoSTlcipJokw8v2OJtx2y</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_sign_up2">SignUpActivity2</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_username">Username</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="hint_email">Email</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_login">Already registered! Login Me.</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_nav_draw">NavDrawActivity</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="title_activity_drawer_menu">drawerMenuActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_tablayout">tablayoutActivity</string>
+    <string name="title_activity_primary_fragment">PrimaryFragmentActivity</string>
+    <string name="title_activity_social_fragment">SocialFragmentActivity</string>
+    <string name="title_activity_updates_fragment">UpdatesFragmentActivity</string>
+    <string name="title_activity_sent_fragment">SentFragmentActivity</string>
+    <string name="title_activity_add_menu_item">AddMenuItemActivity</string>
+    <string name="title_activity_pop_up">PopUpActivity</string>
+
+
+
+    <string name="hint_Food_Name">Food Name</string>
+    <string name="hint_Food_Image_Link">Food Image Link</string>
+    <string name="hint_Food_Price">Food Price</string>
+    <string name="hint_Food_Description">Food Description</string>
+    <string name="btn_addMenuItem">Add Menu Item</string>
+    <string name="btn_DeleteMenuItem">Delete Menu Item</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_delete_menu_item">DeleteMenuItemActivity</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="title_activity_menu_option">MenuOptionActivity</string>
+    <string name="title_activity_update_menu_item">UpdateMenuItemActivity</string>
+
+
+
+
+</resources>
